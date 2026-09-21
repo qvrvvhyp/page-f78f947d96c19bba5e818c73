@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "f9b313ced67a71e4109fd00b",
+  "owner": "qvrvvhyp",
+  "repo": "page-f78f947d96c19bba5e818c73",
+  "title": "KC云加速(KCNetwork)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f78f947d96c19bba5e818c73",
+      "a": "KC云加速(KCNetwork)",
+      "b": "稳定全球clash加速器",
+      "entity": "KC云加速(KCNetwork)",
+      "brand": "KC云加速(KCNetwork)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ab9eacd1af763925fdee97850dbe285752208fe36e51cc074fd7d5c4e0986907",
+      "content": {
+        "primary_entity": "KC云加速(KCNetwork)",
+        "keyword1": "KC云加速(KCNetwork)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择适配的 Clash 客户端，再导入 KC云加速 订阅配置即可使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选对套餐，配好订阅，让 KC云加速 稳定承载每一次连接。",
+          "AI_CLOSING_TITLE": "从合适套餐开始",
+          "AI_DESCRIPTION": "，KC云加速 提供基础版、旗舰版与团队版三档套餐，月付从 ¥15 起，年付仅需 ¥150/年。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB 流量、支持 5 台设备，含 IPLC 专线与全节点流媒体解锁；团队版每月 1000GB 流量、支持 20 台设备。订阅周期越长平均成本越低，可按设备数量与流量需求选择。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量到订阅周期，快速锁定适合自己的方案。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版适合 1 至 3 台设备轻度使用，每月 100GB 覆盖日常浏览与基础流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB、支持 5 台设备，IPLC 专线对游戏与实时连接更友好。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB、支持 20 台设备，提供 VIP 高带宽节点与企业定制路由。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TITLE_2": "按设备数选档",
+          "AI_FEATURE_TITLE_3": "按周期省钱",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到配置订阅的流程。",
+          "AI_GUIDE_TITLE": "配置三步走",
+          "AI_HERO_INTRO": "KC云加速 提供多档流量套餐与设备支持，配合 Clash 客户端导入订阅即可使用。按设备数量、每月流量与订阅周期选择方案，旗舰版还包含 IPLC 专线与流媒体解锁。",
+          "AI_HERO_SUBTITLE": "多档套餐稳定连接",
+          "AI_HIGHLIGHT_1": "三档套餐月付 ¥15 起",
+          "AI_HIGHLIGHT_2": "年付低至 ¥150/年",
+          "AI_HIGHLIGHT_3": "单账号最多支持 20 台设备",
+          "AI_PLANS_INTRO": "对比三档套餐的流量、设备数与周期价格，按实际用量选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量需求与同时在线设备数，在基础版、旗舰版和团队版之间选定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的流量额度、设备数量和线路类型，确认能满足你的使用场景。",
+          "AI_STEP_TEXT_3": "在对应设备上安装 Clash 客户端，按客户端文档导入 KC云加速 订阅配置并启用。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "KC云加速套餐配置",
+          "AI_FAQ_TITLE": "常见疑问",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版主要差别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB、3台设备，旗舰版每月300GB、5台设备，并增加IPLC专线和全节点流媒体解锁。",
+          "AI_FAQ_QUESTION_2": "订阅可以同时在多台设备上使用吗？",
+          "AI_FAQ_ANSWER_2": "各套餐规定了同时在线的设备上限，基础版3台、旗舰版5台、团队版20台，按套餐限制使用即可。",
+          "AI_FAQ_QUESTION_3": "年付比月付划算在哪里？",
+          "AI_FAQ_ANSWER_3": "年付基础版150元、旗舰版350元、团队版850元，折算后每月成本低于对应月付价格。",
+          "AI_FAQ_QUESTION_4": "如何导入订阅到客户端？",
+          "AI_FAQ_ANSWER_4": "购买后获取订阅链接，打开所选客户端的订阅管理页面，粘贴链接并更新即可完成导入。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么使用场景？",
+          "AI_FAQ_ANSWER_5": "团队版提供1000GB月流量和20台设备在线，并支持企业定制路由与专属客户经理，适合多人协作环境。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jtjqs.cn",
+    "host": "jtjqs.cn"
+  },
+  "file_hashes": {
+    "index.html": "aead8dbd81791909a39bcb0557063e4d86e281bd5ea523c053586ccf2ecc2d08",
+    "sitemap.xml": "45d0b5c4830f7119cec7df157f51773b6d040ece310ffeac76c20a8c07bc3e19",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7802fbd3d233f8c9f746b4ed3a9daa9ed6994fade2afabcf9b633710507823fc",
+    "robots.txt": "72c03adacd6e4185dc36e3f7401268819dfa40bb4a46e624289b003ee43916fe",
+    "3aaceb20ed1d80cd927d73dc3124f4b2.txt": "c856d1c11d94cd30eaf4989e0b2e4851c27848d9305f4ea1e9e13d6e626e52ee"
+  },
+  "revision": "72da42c2e419f6095efcb26b46c94624fcea36c5cf78d6cb547adfa4317098e2"
+}
